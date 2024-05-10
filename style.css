@@ -1,0 +1,15 @@
+h1 {
+    color: seagreen;
+    background-color: beige;
+    padding: 20px;
+    border: 2px lightblue solid;
+    text-align:center;
+}
+
+.funfacts {
+    background-color: lightblue;
+}
+
+p {
+    margin-bottom: 40px;
+}
